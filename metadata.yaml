@@ -1,0 +1,5 @@
+purpose: "Core mission and aerospace development for The Space Empire"
+dependencies:
+  - AstroCrown-Contracts
+  - AI-HAAN
+version: "1.0.0"
